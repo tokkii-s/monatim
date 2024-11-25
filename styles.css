@@ -1,7 +1,6 @@
 a {
     display: block;
-    margin-right: 10px;
-    margin-left: 10px;
+    padding: 40px;
 }
 p {
     margin-right: 10px;
